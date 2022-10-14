@@ -1,0 +1,13 @@
+tensorflow
+scipy
+matplotlib
+scikit-learn
+pandas
+opencv-python
+keras
+statsmodels
+fastparquet
+texttable
+latextable
+numpy
+seaborn
